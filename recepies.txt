@@ -9,6 +9,8 @@ pasta
 chicken
 
 
+beans
+pizza
 
 thanku
 
